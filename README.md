@@ -1,23 +1,29 @@
-┌─────────────────────────────────────────────────────────────────┐
-│                     INNOVATION OPPORTUNITY ENGINE               │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. TRENDS (Macro signals)                                      │
-│     ↓                                                          │
-│  2. CONSUMER TENSIONS (What's frustrating?)                    │
-│     ↓                                                          │
-│  3. UNMET NEEDS (What's missing?)                              │
-│     ↓                                                          │
-│  4. OPPORTUNITY SPACES (Where to play?)                        │
-│     ↓                                                          │
-│  5. CONCEPTS (What could we do?)                               │
-│     ↓                                                          │
-│  6. PROPOSITIONS (What will we say?)                           │
-│     ↓                                                          │
-│  7. PRODUCT/PACK (What will we make?)                          │
-│     ↓                                                          │
-│  8. CHANNEL (Where will we sell?)                              │
-│     ↓                                                          │
-│  9. LAUNCH (How will we go to market?)                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+# Innovation Opportunity Engine
+
+## Status
+🟡 Starter project — concept and framework stage
+
+## Objective
+
+Create a structured system that converts consumer tensions, category trends and market signals into innovation opportunities.
+
+## Framework
+
+**Trend → Consumer tension → Unmet need → Opportunity space → Concept → Proposition → Product/Pack → Channel → Launch**
+
+## Proposed scoring dimensions
+
+- Consumer relevance
+- Market attractiveness
+- Brand fit
+- Differentiation
+- Feasibility
+- Commercial potential
+
+## Planned output
+
+A ranked list of innovation territories with rationale, concept examples and recommended next steps.
+
+## Data
+
+Synthetic/public examples only. No confidential employer information is included.
