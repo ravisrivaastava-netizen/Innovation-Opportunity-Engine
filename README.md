@@ -1,29 +1,8 @@
-# Innovation Opportunity Engine
+# Clone the repository
+git clone https://github.com/raviprakash/innovation-opportunity-engine.git
 
-## Status
-🟡 Starter project — concept and framework stage
+# Navigate to directory
+cd innovation-opportunity-engine
 
-## Objective
-
-Create a structured system that converts consumer tensions, category trends and market signals into innovation opportunities.
-
-## Framework
-
-**Trend → Consumer tension → Unmet need → Opportunity space → Concept → Proposition → Product/Pack → Channel → Launch**
-
-## Proposed scoring dimensions
-
-- Consumer relevance
-- Market attractiveness
-- Brand fit
-- Differentiation
-- Feasibility
-- Commercial potential
-
-## Planned output
-
-A ranked list of innovation territories with rationale, concept examples and recommended next steps.
-
-## Data
-
-Synthetic/public examples only. No confidential employer information is included.
+# Install dependencies
+pip install -r requirements.txt
