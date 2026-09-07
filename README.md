@@ -1,17 +1,29 @@
-innovation-opportunity-engine/
-├── README.md                          # This file
-├── requirements.txt                   # Dependencies
-├── src/
-│   ├── __init__.py
-│   ├── engine.py                      # Core innovation engine
-│   ├── scoring.py                     # Scoring system
-│   ├── commercial.py                  # Commercial impact
-│   └── visualizations.py              # Chart generation
-├── examples/
-│   ├── basic_usage.py                 # Simple example
-│   └── nectar_syrup_innovation.py     # Complete case study
-├── tests/
-│   └── test_engine.py                 # Unit tests
-└── outputs/
-    ├── innovation_opportunities.xlsx  # Excel export
-    └── innovation_funnel.png          # Funnel chart
+# Innovation Opportunity Engine
+
+## Status
+🟡 Starter project — concept and framework stage
+
+## Objective
+
+Create a structured system that converts consumer tensions, category trends and market signals into innovation opportunities.
+
+## Framework
+
+**Trend → Consumer tension → Unmet need → Opportunity space → Concept → Proposition → Product/Pack → Channel → Launch**
+
+## Proposed scoring dimensions
+
+- Consumer relevance
+- Market attractiveness
+- Brand fit
+- Differentiation
+- Feasibility
+- Commercial potential
+
+## Planned output
+
+A ranked list of innovation territories with rationale, concept examples and recommended next steps.
+
+## Data
+
+Synthetic/public examples only. No confidential employer information is included.
